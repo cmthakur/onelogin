@@ -1,8 +1,7 @@
 # Onelogin
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/onelogin`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This Gem use OneLogin’s product API to interact with your organization’s data and to develop third-party apps that incorporate and build upon OneLogin’s core product features.
+For more info visit [OneLogin Api Doc](https://developers.onelogin.com/docs)
 
 ## Installation
 
